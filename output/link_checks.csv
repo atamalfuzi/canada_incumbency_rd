@@ -1,0 +1,14 @@
+check,value
+2025: ridings rebuilt from polls,343.0000
+2025: correlation of electors with official transposed electors,0.9989
+"2025: median gap in electors, share of official",0.0034
+"2025: median largest party share gap, rebuilt against official",0.0210
+2025: 90th percentile largest party share gap,0.0340
+"2025: median largest party share gap, linked ridings",0.0205
+2025: officially unchanged ridings found by name,43.0000
+2025: lowest overlap among them,1.0000
+"2025: of them, predecessor has same name",43.0000
+"2015: linked ridings, no by-election, with a sitting MP running",167.0000
+"2015: of them, sitting MP has the surname of the predecessor's last winner",162.0000
+"2025: linked ridings, no by-election, with a sitting MP running",215.0000
+"2025: of them, sitting MP has the surname of the predecessor's last winner",214.0000

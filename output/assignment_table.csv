@@ -1,0 +1,26 @@
+group,spec,coef,n,se
+Combined,Mean,0.45642,13665,
+Combined,Linear (+/-15%),0.11177,6465,0.03215
+Combined,Linear (+/-10%),0.09411,4742,0.03761
+Combined,Cubic,0.09421,13195,0.03257
+Combined,Quartic,0.10194,13195,0.03934
+Liberal pre-1950,Mean,0.61218,2661,
+Liberal pre-1950,Linear (+/-15%),0.13597,1627,0.04375
+Liberal pre-1950,Linear (+/-10%),0.11210,1242,0.05061
+Liberal pre-1950,Cubic,0.11048,2425,0.04748
+Liberal pre-1950,Quartic,0.13015,2425,0.05740
+Liberal post-1950,Mean,0.42960,4432,
+Liberal post-1950,Linear (+/-15%),0.10812,1886,0.03711
+Liberal post-1950,Linear (+/-10%),0.06973,1337,0.04429
+Liberal post-1950,Cubic,0.08676,4406,0.03839
+Liberal post-1950,Quartic,0.08621,4406,0.04559
+Conservative pre-1950,Mean,0.47882,2195,
+Conservative pre-1950,Linear (+/-15%),0.08885,1369,0.04722
+Conservative pre-1950,Linear (+/-10%),0.08731,1059,0.05743
+Conservative pre-1950,Cubic,0.07622,2016,0.04947
+Conservative pre-1950,Quartic,0.09285,2016,0.06219
+Conservative post-1950,Mean,0.37766,4377,
+Conservative post-1950,Linear (+/-15%),0.10570,1583,0.03589
+Conservative post-1950,Linear (+/-10%),0.06992,1104,0.04307
+Conservative post-1950,Cubic,0.08272,4348,0.03876
+Conservative post-1950,Quartic,0.09539,4348,0.04509
